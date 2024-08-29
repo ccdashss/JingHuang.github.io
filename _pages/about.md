@@ -15,9 +15,7 @@ With degrees in Economics and Management, my research interests encompass land u
 A data-driven personal website
 ======
 
-I am working with [Prof. Patino-Echeverri](https://sites.nicholas.duke.edu/daliapatinoecheverri/people/)  from [Nicholas School of the Environment](https://nicholas.duke.edu/), Duke University and [Prof. Yang](https://faculty.dukekunshan.edu.cn/faculty_profiles/yanran-yang) from Social Science Division, Duke Kunshan University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
-
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+I am working with [Prof. Patino-Echeverri](https://sites.nicholas.duke.edu/daliapatinoecheverri/people/)  from [Nicholas School of the Environment](https://nicholas.duke.edu/), Duke University and [Prof. Yang](https://faculty.dukekunshan.edu.cn/faculty_profiles/yanran-yang) from Social Science Division, Duke Kunshan University. 
 
 Selected Publications
 ------
