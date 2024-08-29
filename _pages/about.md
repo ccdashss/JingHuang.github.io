@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-I'm a Postdoctoral Research Fellow in Energy Policy at Nicholas School of the Environment, Duke and the Social Science Division, DKU. 
+I'm a Postdoctoral Research Fellow in Energy Policy at Nicholas School of the Environment, [Duke University](https://duke.edu/) and the Social Science Division, [Duke Kunshan University](https://www.dukekunshan.edu.cn/). 
 I received my PhD from the School of Public Administration and Policy, Renmin University of China, in June 2024. 
 With degrees in Economics and Management, my research interests encompass land use, energy policy, and decarbonization. My projects focus on the technical, economic, and public acceptance feasibility of using waste heat to reduce energy demand from residential, commercial, and industrial customers.
 
@@ -16,7 +16,7 @@ With degrees in Economics and Management, my research interests encompass land u
 A data-driven personal website
 ======
 
-I am working with [Prof. Patino-Echeverri](https://sites.nicholas.duke.edu/daliapatinoecheverri/people/)  from [Nicholas School of the Environment](https://nicholas.duke.edu/), [Duke University](https://duke.edu/) and [Prof. Yang](https://faculty.dukekunshan.edu.cn/faculty_profiles/yanran-yang) from Social Science Division, [Duke Kunshan University](https://www.dukekunshan.edu.cn/). I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am working with [Prof. Patino-Echeverri](https://sites.nicholas.duke.edu/daliapatinoecheverri/people/)  from [Nicholas School of the Environment](https://nicholas.duke.edu/), Duke University and [Prof. Yang](https://faculty.dukekunshan.edu.cn/faculty_profiles/yanran-yang) from Social Science Division, Duke Kunshan University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
