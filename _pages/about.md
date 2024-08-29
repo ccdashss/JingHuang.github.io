@@ -20,13 +20,7 @@ I am working with [Prof. Patino-Echeverri](https://sites.nicholas.duke.edu/dalia
 Selected Publications
 ------
 -[2024] **Huang, J.**, Patino-Echeverri, D.*, Zhang, Z.F. Planting Trees is a Cost-Effective Way to Reduce Residential Electricity Consumption and Abate Atmospheric CO_2. Applied Energy, 373, 123842. [DOI](https://doi.org/10.1016/j.apenergy.2024.123842)
--[2024]
-Huang, J., Han, W.J.*, Zhang, Z.F.*, Ning, S.S., \& Zhang, X.L. The decoupling relationship between land use efficiency and carbon emissions in China: An analysis using the Socio-Ecological Systems (SES) framework. Land Use Policy, 138, 107055. https://doi.org/10.1016/j.landusepol.2024.107055  
--[2023]
-Huang, J., Zhang, D., Zhang, Z.F.*, Kong, W.L., Yan, J. M., \& Xia, F. Z. Trapped in dilemma: Inverted N-shaped EKC evidence of economic growth and ecological land in a spatial spillover perspective. Applied Geography, 161, 103145. https://doi.org/10.1016/j.apgeog.2023.103145 \textbf{[SCI Q1]}}
-
-		{2023}
-		{\textbf{Huang, J.,} Wang, X.B., Zhang, D., Zhang, Z.F.*, Yan, J.M., \& Xia, F.Z. Trade-offs under pressure? Development of urban green space under economic growth and governance. Journal of Cleaner Production, 427, 139261. https://doi.org/10.1016/j.jclepro.2023.139261 \textbf{[SCI Q1]}}
-
-        {2024}
-        {Xia, F.Z., \textbf{Huang, J.,*} \& Zhang, Z.F. Government concerns, the benefit cliff, and land use: A comparative study of rural impoverished and marginalized impoverished groups. Land Use Policy, 140, 107096. https://doi.org/10.1016/j.landusepol.2024.107096 \textbf{[SSCI Q1, Corresponding Author]}}
+-[2024] Huang, J., Han, W.J.*, Zhang, Z.F.*, Ning, S.S., \& Zhang, X.L. The decoupling relationship between land use efficiency and carbon emissions in China: An analysis using the Socio-Ecological Systems (SES) framework. Land Use Policy, 138, 107055.[DOI](https://doi.org/10.1016/j.landusepol.2024.107055) 
+-[2023] Huang, J., Zhang, D., Zhang, Z.F.*, Kong, W.L., Yan, J. M., \& Xia, F. Z. Trapped in dilemma: Inverted N-shaped EKC evidence of economic growth and ecological land in a spatial spillover perspective. Applied Geography, 161, 103145. [DOI](https://doi.org/10.1016/j.apgeog.2023.103145)
+-[2023] Huang, J., Wang, X.B., Zhang, D., Zhang, Z.F.*, Yan, J.M., \& Xia, F.Z. Trade-offs under pressure? Development of urban green space under economic growth and governance. Journal of Cleaner Production, 427, 139261. [DOI](https://doi.org/10.1016/j.jclepro.2023.139261)
+-[2024] Xia, F.Z., Huang, J.,* Zhang, Z.F. Government concerns, the benefit cliff, and land use: A comparative study of rural impoverished and marginalized impoverished groups. Land Use Policy, 140, 107096. [DOI](https://doi.org/10.1016/j.landusepol.2024.107096)
