@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D, Land Resources Management, Renmin University of China, 2024 
+* M.Sc., Land Resources Management, Renmin University of China, 2021
+* B.A., Economics, China Agricultural University, 2019
+* B.Admin., Land Resources Management, China Agricultural University, 2019
 
 Work experience
 ======
@@ -53,12 +54,19 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Teaching Assistant Experience
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* 2020 Fall, Econometrics in Real Estate Research, Graduate
+* 2020 Fall, Theory and Methods of Urban and Rural Land Planning, Graduate
+* 2020 Summer, Academic Standards and Dissertation Writing, MPA
+* 2020 Spring, Data Analysis and Dissertation Writing, Undergraduate
+* 2020 Spring, Fundamentals of Econometrics, Undergraduate
+* 2020 Fall, Econometrics, Undergraduate
+* 2019 Fall, Freshman Seminar, Undergraduate
+* 2020 Fall, Freshman Seminar, Undergraduate
+* 2019 Fall, Land Jurisprudence, Undergraduate
+* 2020 Fall, Land Jurisprudence, Undergraduate, 
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
